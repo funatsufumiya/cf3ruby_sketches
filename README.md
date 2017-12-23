@@ -1,5 +1,7 @@
 # cf3ruby_sketches
 
+Sketches using [cf3ruby](https://github.com/funatsufumiya/cf3ruby)
+
 ## screenshots
 
 - `squares.rb`
