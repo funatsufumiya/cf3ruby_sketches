@@ -17,3 +17,7 @@ Sketches using [cf3ruby](https://github.com/funatsufumiya/cf3ruby)
 - `squares3.rb`
 
 <img src="https://user-images.githubusercontent.com/3406260/34318337-89166ac6-e808-11e7-831d-75dfe830b588.png" width="200"/>
+
+- `stars.rb`
+
+<img src="https://user-images.githubusercontent.com/3406260/34318701-321939ba-e812-11e7-9bdc-2b725f26b3c3.png" width="200"/>
