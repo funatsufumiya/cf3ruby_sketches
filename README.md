@@ -2,6 +2,8 @@
 
 Sketches using [cf3ruby](https://github.com/funatsufumiya/cf3ruby)
 
+<img src="https://user-images.githubusercontent.com/3406260/34318337-89166ac6-e808-11e7-831d-75dfe830b588.png" width="200"/>
+
 ## screenshots
 
 - `squares.rb`
@@ -11,3 +13,7 @@ Sketches using [cf3ruby](https://github.com/funatsufumiya/cf3ruby)
 - `squares2.rb`
 
 <img src="https://user-images.githubusercontent.com/3406260/34318099-1e8e2668-e802-11e7-89f6-c75ff02730d3.png" width="200"/>
+
+- `squares3.rb`
+
+<img src="https://user-images.githubusercontent.com/3406260/34318337-89166ac6-e808-11e7-831d-75dfe830b588.png" width="200"/>
